@@ -3,11 +3,10 @@
 ![Android TV for PS4](branding/repository-banner.svg)
 The guide below covers Android 13 / 1.1.
 
+All Credits Due to Odiecay the original creator
+
+
 Android TV 13 on a PlayStation 4, based on **BRTDTV's Android TV x86** build. Install one PKG, open it from the home screen, and the console boots straight into Android TV from its internal drive. Your apps, accounts and settings are kept between launches.
-
-Questions, testing, or just want to follow along? Join the **[Discord server](https://discord.gg/UxC8kx6Eh5)**.
-
-> **This is a work in progress by one developer with one PS4.** It's been tested properly on a fat PS4. Every other model is being made to work right now, with the help of people who try it and send their logs. If it doesn't work on your console yet, that's expected, and your report is exactly what gets it fixed. See [Where it's at](#where-its-at).
 
 [Download](https://github.com/odiecay/android-tv-ps4/releases/tag/v1.1) · [Installation](docs/INSTALL.md) · [Compatibility](docs/COMPATIBILITY.md) · [Hardware support](docs/HARDWARE.md) · [Release notes](docs/RELEASE-NOTES.md) · [Roadmap](docs/ROADMAP.md) · [How it works](docs/DEVELOPMENT.md) · [Build it](docs/BUILD.md) · [Contribute](CONTRIBUTING.md) · [Discord](https://discord.gg/UxC8kx6Eh5)
 
