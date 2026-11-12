@@ -1,7 +1,7 @@
 # Android TV for PS4
 
 ![Android TV for PS4](branding/repository-banner.svg)
-The guide below covers Android 13 / 1.1.
+The guide below covers Android 13 / 1.1.2
 
 All Credits Due to Odiecay the original creator
 
